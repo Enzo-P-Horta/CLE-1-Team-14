@@ -256,6 +256,9 @@ h3{
         flex-direction: column;
         text-align: center;
     }
+    .invent{
+        padding: 2vw;
+    }
 
     .nav {
         display: flex;
@@ -273,6 +276,10 @@ h3{
 
     .secone h1 {
         font-size: 1.5rem;
+    }
+    .items{
+        display: flex;
+        flex-direction: column;
     }
 
     .products {
